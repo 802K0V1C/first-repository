@@ -1,0 +1,6 @@
+$font-text: 'Caveat', cursive;
+
+.lyrics {
+    font-family: $font-text;
+    font-size: 40px;
+}
